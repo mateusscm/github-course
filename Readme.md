@@ -2,8 +2,6 @@
 
 Este é um repositório teste para ensinar como git funciona. 
 
-Saiba mais no facebook.
+Inserção de dados para teste.
 
 Teste teste teste.
-
-Outro teste
